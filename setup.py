@@ -30,7 +30,7 @@ setup(
     description="Python library for running quantum benchmarking experiments for OringQ quantum chip.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="http://10.10.10.82:7990/scm/experiment/qpanda-experiment.git",
+    url="https://github.com/sbzhao/originbench.git",
     author="Zhao Shubin",
     author_email="zsb3@originqc.com",
     license="Apache 2.0",
